@@ -1,3 +1,3 @@
 new git
 
-new new
+learning git
