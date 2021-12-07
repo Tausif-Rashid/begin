@@ -10,13 +10,6 @@ int main(){
         scanf("%d", &a[i]);
     }
 
-
-
-   for ( i = 0; i < n; i++)
-    {
-        printf("%d ",a[i]);
-    }
- printf("\n");
     for ( i = 1; i < n; i++)
     {
       key=a[i];
@@ -34,7 +27,3 @@ int main(){
     {
         printf("%d ",a[i]);
     }
-int arr[7];
-int k = sizeof(arr)/sizeof(arr[0]);
-     printf("\n%d ",k);
-}
