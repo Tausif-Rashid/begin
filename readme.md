@@ -1,3 +1,3 @@
-new git
+new to git
 
-learning git
+What was a git again?
